@@ -1,4 +1,4 @@
-- # Project 2: Ananyisis of sales data
+- # Project 2: Analyisis of sales data
 - The project is about the 12 months sales data of a shop that sells electronic devices.
 - 
 - 
